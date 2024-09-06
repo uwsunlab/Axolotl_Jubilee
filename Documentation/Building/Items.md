@@ -1,9 +1,9 @@
 ## Items in the box
 
-| **Qty** | **Vendor Number**               | **Description**                                                                                             | **Image**                        |
+| **Qty** | **Vendor Number**               | **Description**                                                                                             | **Notes**                        |
 |---------|----------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------|
 | **Frame** |                                  |                                                                                                             |                                  |
-| 7       | Printed Part Kit                 | Jubilee printed parts kit with press-fit dowel pins                                                         | ![Printed Part Kit](path_to_image/BuildPlate_MagneticStickySheet.jpg)|
+| 1       | Printed Part Kit                 | Jubilee printed parts kit with press-fit dowel pins                                                         | [Printed Part Kit](https://github.com/your-username/repository-name/raw/main/images/image.jpg)|
 | 1       | Build Plate + Magnetic Sticky Sheet | 305x305mm spring steel build plate and magnetic adhesive sticky sheet                                       | ![Build Plate](path_to_image/BuildPlate_MagneticStickySheet.jpg)    |
 | 1       | B7-408-0-1040-713                | Jubilee 8mm tool build plate                                                                                | ![Tool Build Plate](path_to_image)|
 | 2       | QL-LHR3-02-M6-MRW                | Aluminum Crossbar                                                                                           | ![Aluminum Crossbar](path_to_image)|
