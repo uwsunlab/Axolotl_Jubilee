@@ -32,13 +32,13 @@
 | 7       | 36-4000-ND                                             | Solder Terminal Lug (used as bed Spring Anchors)                              | ![Spring Anchors](path_to_image/Smooth_Edge_Lug_Terminal_Through_Hole_Connector.png) |
 | 3       | 36-7328-ND                                             | Solder Terminal Lug (used as REL Spring Anchors)                              | ![Spring Anchors](path_to_image/4_Stud_Smooth_Edge_Lug_Terminal_Flat_Connector.png) |
 | 1       |                                                       | Jubilee Electronics Back Panel                                                | ![Back Panel](path_to_image/Jubilee_Electronics_Back_Panel.png) |
-| **Electronics** |  | **Dark Background** |
+| **Electronics** | 
 | 1       | n/a                                                    | Duet 3 Mini Ethernet                                                          | ![Duet 3](path_to_image/Duet_3_Mini_Ethernet.png) |
 | 1       | n/a                                                    | Duet 3HC Expansion without canbus cable                                       | ![Duet 3](path_to_image/Duet_3_Expansion_Board_3HC.png) |
 | 1       | n/a                                                    | Jubilee Wire Harness Kit                                                      | ![Wire](path_to_image/Jubilee_Wiring_Harness.png) |
 | 2       | n/a                                                    | Stepper Motor Pigtail                                                         | ![Pigtail](path_to_image/Stepper_Motor_Pigtail.png) |
 | 1       | n/a                                                    | 120V Power Plug                                                               | ![Pigtail](path_to_image/6ft_AC_Power_Cable.png) |
-| **Assembly Tools** | | **Dark Background** |
+| **Assembly Tools** |
 | 1       | 7130K12                                                | 100-pack of 2.5mm (0.1in.) thick zip ties                                     | ![Zipties](path_to_image/thick_zip_ties.png) |
 | 1       |                                                       | M3-M4 heat set Insert Installation Tip for soldering irons                    |  |
 | 1       |                                                       | 1.5mm hex key (*not* ball end)                                                |  |
@@ -49,11 +49,29 @@
 | 1       |                                                       | Set of 2 25-50-75mm machinist blocks                                          | ![Zipties](path_to_image/machinist_blocks.png) |
 | 2       |                                                       | 4-in. bar clamps                                                              | ![Bar Clamps](path_to_image/bar_clamps.png) |
 | 1       |                                                       | Threadlocker Blue (2.5mL)                                                     | ![Threadlocker](path_to_image/Threadlocker_Blue.png) |
-| **Extras** |  | **Dark Background** |
+| **Extras** | 
 | 1       | Jubilee Fastener Reference Sheet(s)                    | include this pdf printed at 100% scale.                                       | [Jubilee Fastener Reference Sheet](https://docs.google.com/viewer?url=https://github.com/machineagency/jubilee/raw/main/frame/assembly_instructions/vitamin_reference_sheet.pdf) |
-| **Printing Plate Option** | | **Dark Background** |
+| **Printing Plate Option** |
 | 1       |                                                       | Silicone Heated Pad, 300x300mm, 750W, 120V <br> with 150C thermal cutoff     | ![Heated Pad](path_to_image/Silicone_Heated_Pad.png) |
 | 1       | SSR-240D25                                             | Solid State Relay for Heated Bed                                              | ![Relay](path_to_image/Solid_State_Relay_for_Heated_Bed.png) |
-| **Side Panel Option** | | **Dark Background** |
+| **Side Panel Option** | 
 | 1       |                                                       | Jubilee "Com Side" Side Panel                                                 | ![Side Panel](path_to_image/side_panel_com_side.png) |
 | 1       |                                                       | Jubilee "PSU Side" Side Panel                                                 | ![Side Panel](path_to_image/side_panel_psu_side.png) |
+| **Additional Bought Items** |
+| 5       |    Limit Switches                                     | Switch Snap Action SPDT 3A 125V                                               | [Limit Switches](https://www.digikey.com/en/products/detail/e-switch/SS0750300F070P1A/3778167?s=N4IgTCBcDaIMpwAwHYCsiDMjEDEWIAUBGAQQFoA5AERAF0BfIA) |
+| 1       |    2x5 Female IDC Socket Connector                    | CablesOnline 10-Pack 10-Pin (2x5) Female IDC 2.54mm Pitch Connectors for Flat Ribbon Cable, FC-010-10                                                   | [Connector](https://a.co/d/6LxYZgu) |
+| 1       |    Grey Flat Ribbon Cable In Roll                    | 10P 10 Meters or 33 Feet Roll IDC Silver Flat Ribbon Cable for 2.54mm Connectors, 10 Wire, 10 Conductors                                                 | [Wire](https://a.co/d/gdTt0h2) |
+| 1       |    M3 Hex Bolt Screw & Flat Head Hex Socket Screws                | 720PCS M3 Hex Bolt Screw Assorted M3x4mm 6mm 8mm 10mm 12mm Black Alloy Steel Pan & Flat Head Hex Socket Screws with Plastic Box                                                 | [Screws](https://a.co/d/2iHC0pU) |
+| 1       |    Heat Set Insert Tool Kit                |       50 M3x5x4 heat set inserts                                                                             | [Full Kit](https://www.filastruder.com/products/heat-set-insert-tool-kit?variant=40437399519303) |
+| 1       |    Heat Set Insert Tool Kit                |       50 M3x5x4 heat set inserts                                                                             | [Heatserts Only](https://www.filastruder.com/products/heat-set-insert-tool-kit?variant=40437399584839) |
+| 5       |    Tool Balls for Jubilee (3-pack)                |                                                                                 | [Tool Balls](https://www.filastruder.com/products/tool-balls-for-jubilee-3-pack?_pos=1&_sid=67e00ff4a&_ss=r) |
+| 5       |    Wedge Plate for Jubilee (3-pack)               |                                                                                 | [Wedge Plate](https://www.filastruder.com/products/wedge-plate-for-jubilee?_pos=2&_sid=67e00ff4a&_ss=r) |
+| 1       |    Large Zip Ties               |       Large Zip Ties 36 inch (50 Pack), Long Zip Ties Heavy Duty with 250 lb Tensile Strength, Big Cable Ties, Black, by ANOSON                                                                          | [Large Zip Ties](https://a.co/d/7oLSbqp) |
+| 1       |    Jubilee Aluminum Z Yokes by Mandala Rose Works              |        | [Aluminum Z Yokes](https://www.filastruder.com/collections/jubilee/products/jubilee-aluminum-z-yokes-by-mandala-rose-works) |
+| 1       |    Raspberry Pi 5 8GB / Vilros Complete Kit              |        | [Raspberry Pi 5](https://vilros.com/products/raspberry-pi-5?variant=40082990399582) |
+| 1       |    26 Pins Standard 0.1" 2.54mm Female Sockets              |   PC Accessories - Connectors Pro 30-Pack 2X13 26P 2.54mm 0.1" Pitch Dual Rows IDC Sockets for Standard Flat Ribbon Cable, 26 Pins FC Female Connector 30-PK     | [Female Sockets](https://a.co/d/9TcanWj) |
+| 1       |    40 Pins Standard 0.1" 2.54mm Sockets           |   PC Accessories - Connectors Pro 25-Pack 2X20 40P 2.54mm 0.1" Pitch Dual Rows IDC Sockets for Standard Flat Ribbon Cable, 40 Pins FC Female Connector     | [Female Sockets](https://a.co/d/d24H9pr) |
+| 1       |    26 Pins Connector Flat Ribbon Cable          |   Uxcell IDC Rainbow Wire Flat Ribbon Cable 26 Pins 118cm Length 2.54mm Pitch Type-C     | [Rainbow Wire Flat Ribbon Cable](https://a.co/d/bkg0DDH) |
+| 1       |    5M GT2 Timing Belt          |   5M GT2 Timing Belt, Upgrade Non-Slip Version, Width 6mm, Fit for 3D Printer and Most Belt Driven Printers     | [5M GT2 Timing Belt](https://a.co/d/8R7fiQP) |
+
+
