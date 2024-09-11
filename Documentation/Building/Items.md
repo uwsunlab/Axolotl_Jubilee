@@ -57,7 +57,10 @@
 | **Side Panel Option** | 
 | 1       |                                                       | Jubilee "Com Side" Side Panel                                                 | ![Side Panel](path_to_image/side_panel_com_side.png) |
 | 1       |                                                       | Jubilee "PSU Side" Side Panel                                                 | ![Side Panel](path_to_image/side_panel_psu_side.png) |
-| **Additional Bought Items** |
+
+## Additional Bought Items
+| **Qty** | **Name**               | **Description**                                                                                             | **Link**                        |
+|---------|----------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------|
 | 5       |    Limit Switches                                     | Switch Snap Action SPDT 3A 125V                                               | [Limit Switches](https://www.digikey.com/en/products/detail/e-switch/SS0750300F070P1A/3778167?s=N4IgTCBcDaIMpwAwHYCsiDMjEDEWIAUBGAQQFoA5AERAF0BfIA) |
 | 1       |    2x5 Female IDC Socket Connector                    | CablesOnline 10-Pack 10-Pin (2x5) Female IDC 2.54mm Pitch Connectors for Flat Ribbon Cable, FC-010-10                                                   | [Connector](https://a.co/d/6LxYZgu) |
 | 1       |    Grey Flat Ribbon Cable In Roll                    | 10P 10 Meters or 33 Feet Roll IDC Silver Flat Ribbon Cable for 2.54mm Connectors, 10 Wire, 10 Conductors                                                 | [Wire](https://a.co/d/gdTt0h2) |
